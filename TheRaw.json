@@ -348,6 +348,6 @@
     {"name":"FreeBSD111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/FreeBSD111.png"},
     {"name":"Coreos1", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Coreos1.png"},
     {"name":"Windows111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Windows111.png"},
-    {"name":"IMG_6602.png","url":"https://github.com/ysvlove/Emby-icons/blob/main/Icons3/IMG_6602.png?raw=true"}
+    {"name":"IMG_6602","url":"https://github.com/ysvlove/Emby-icons/blob/main/Icons3/IMG_6602.png?raw=true"}
         ]
 }
