@@ -341,7 +341,7 @@
     {"name":"Twm111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Twm111.png"},
     {"name":"Jkj2", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons/Jkj2.png"},
     {"name":"Hkws1111", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Hkws1111.png"},
-
+    
     {"name":"Ubuntu", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Ubuntu.png"},
     {"name":"Debian", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Debian.png"},
     {"name":"Centos", "url":"https://raw.githubusercontent.com/Twoandz9/Emby-icons/main/Icons3/Centos.png"},
@@ -353,6 +353,7 @@
     {"name":"Heige","url":"https://github.com/ysvlove/Emby-icons/blob/main/Icon4/Heige.PNG?raw=true"},
     {"name":"shufu","url":"https://github.com/ysvlove/Emby-icons/blob/main/Icon4/shufu.PNG?raw=true"},
     {"name":"jms_old","url":"https://github.com/ysvlove/Emby-icons/blob/main/Icon4/jms_old.PNG?raw=true"},
-    {"name":"BDD_s","url":"https://github.com/ysvlove/Emby-icons/blob/main/Icon4/BDD_s.PNG?raw=true"}
+    {"name":"BDD_s","url":"https://github.com/ysvlove/Emby-icons/blob/main/Icon4/BDD_s.PNG?raw=true"},
+    {"name":"hxd_y","url":"https://github.com/ysvlove/Emby-icons/blob/main/Icon4/hxd_y.png?raw=true"}
         ]
 }
