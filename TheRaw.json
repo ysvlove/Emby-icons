@@ -1,6 +1,10 @@
 {"name":"Emby Icons", 
 "description":"By ysvlove", 
 "icons":[
+       {"name":"infuse_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/infuse_r.png?raw=true"},
+       {"name":"infuse_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/infuse_s.png?raw=true"},
+       {"name":"iemc_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/iemc_r.png?raw=true"},
+       {"name":"iemc_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/iemc_s.png?raw=true"},
       {"name":"SURGE4_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/SURGE4_r.png?raw=true"},
       {"name":"SURGE4_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/SURGE4_s.png?raw=true"},
       {"name":"quantumultx_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_r.png?raw=true"},
