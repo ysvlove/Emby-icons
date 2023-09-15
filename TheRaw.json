@@ -1,7 +1,11 @@
 {"name":"Emby Icons", 
 "description":"By ysvlove", 
 "icons":[
-    {"name":"Misty+_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icon4/Misty+_r.png?raw=true"},
+      {"name":"SURGE4_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/SURGE4_r.png?raw=true"},
+      {"name":"SURGE4_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/SURGE4_s.png?raw=true"},
+      {"name":"quantumultx_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_r.png?raw=true"},
+      {"name":"quantumultx_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_s.png?raw=true"},
+     {"name":"Misty+_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icon4/Misty+_r.png?raw=true"},
      {"name":"misty+_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icon4/misty+_s.png?raw=true"},
     
      {"name":"bdd_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icon4/bdd_r.png?raw=true"},
