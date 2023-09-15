@@ -1,25 +1,8 @@
 {"name":"Emby Icons", 
 "description":"By ysvlove", 
 "icons":[
-        {"name":"quantumultx_rr","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_rr.png?raw=true"},
-        {"name":"quantumultx_ss","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_ss.png?raw=true"},
-        {"name":"Surge5_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Surge5_r.png?raw=true"},
-        {"name":"Surge5_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Surge5_s.png?raw=true"},
-        {"name":"Loon_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Loon_r.png?raw=true"},
-        {"name":"Loon_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Loon_s.png?raw=true"},
-
-       {"name":"infuse_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/infuse_r.png?raw=true"},
-       {"name":"infuse_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/infuse_s.png?raw=true"},
-       {"name":"iemc_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/iemc_r.png?raw=true"},
-       {"name":"iemc_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/iemc_s.png?raw=true"},
-      {"name":"SURGE4_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/SURGE4_r.png?raw=true"},
-      {"name":"SURGE4_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/SURGE4_s.png?raw=true"},
-        {"name":"shadowrockets_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/shadowrockets_r.png?raw=true"},
-        {"name":"shadowrockets_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/shadowrockets_s.png?raw=true"},
-        {"name":"Plex_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Plex_r.png?raw=true"},
-        {"name":"Plex_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Plex_s.png?raw=true"},
-      {"name":"quantumultx_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_r.png?raw=true"},
-      {"name":"quantumultx_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_s.png?raw=true"},
+        
+      
      {"name":"Misty+_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icon4/Misty+_r.png?raw=true"},
      {"name":"misty+_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icon4/misty+_s.png?raw=true"},
     
@@ -416,7 +399,26 @@
     {"name":"tian_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icon4/tian_s.png?raw=true"},
      {"name":"pure_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/pure_r.png?raw=true"},
     {"name":"pure_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/pure_s.png?raw=true"},
-     
+     {"name":"quantumultx_rr","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_rr.png?raw=true"},
+        {"name":"quantumultx_ss","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_ss.png?raw=true"},
+        {"name":"Surge5_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Surge5_r.png?raw=true"},
+        {"name":"Surge5_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Surge5_s.png?raw=true"},
+        {"name":"Loon_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Loon_r.png?raw=true"},
+        {"name":"Loon_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Loon_s.png?raw=true"},
+
+       {"name":"infuse_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/infuse_r.png?raw=true"},
+       {"name":"infuse_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/infuse_s.png?raw=true"},
+       {"name":"iemc_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/iemc_r.png?raw=true"},
+       {"name":"iemc_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/iemc_s.png?raw=true"},
+      {"name":"SURGE4_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/SURGE4_r.png?raw=true"},
+        {"name":"SURGE4_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/SURGE4_s.png?raw=true"},
+        {"name":"shadowrockets_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/shadowrockets_r.png?raw=true"},
+        {"name":"shadowrockets_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/shadowrockets_s.png?raw=true"},
+        {"name":"Plex_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Plex_r.png?raw=true"},
+        {"name":"Plex_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Plex_s.png?raw=true"},
+      {"name":"quantumultx_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_r.png?raw=true"},
+      {"name":"quantumultx_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_s.png?raw=true"},
+        
      {"name":"hxd_y","url":"https://github.com/ysvlove/Emby-icons/blob/main/Icon4/hxd_y.png?raw=true"},
      {"name":"efu","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icon4/efu.PNG?raw=true"}
         ]
