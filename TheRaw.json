@@ -1,6 +1,13 @@
 {"name":"Emby Icons", 
 "description":"By ysvlove", 
 "icons":[
+        {"name":"quantumultx_rr","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_rr.png?raw=true"},
+        {"name":"quantumultx_ss","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/quantumultx_ss.png?raw=true"},
+        {"name":"Surge5_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Surge5_r.png?raw=true"},
+        {"name":"Surge5_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Surge5_s.png?raw=true"},
+        {"name":"Loon_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Loon_r.png?raw=true"},
+        {"name":"Loon_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/Loon_s.png?raw=true"},
+
        {"name":"infuse_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/infuse_r.png?raw=true"},
        {"name":"infuse_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/infuse_s.png?raw=true"},
        {"name":"iemc_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Apps/iemc_r.png?raw=true"},
