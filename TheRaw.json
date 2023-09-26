@@ -2,7 +2,8 @@
 "description":"By ysvlove", 
 "icons":[
         
-      
+      {"name":"Charon_rr","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/Charon_rr.png?raw=true"},
+      {"name":"Charon_ss","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/Charon_ss.png?raw=true"},
      {"name":"Misty+_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icon4/Misty+_r.png?raw=true"},
      {"name":"misty+_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icon4/misty+_s.png?raw=true"},
     
