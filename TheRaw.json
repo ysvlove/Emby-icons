@@ -1,6 +1,8 @@
 {"name":"Emby Icons", 
 "description":"By ysvlove", 
 "icons":[
+        {"name":"4kfans_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/4kfans_r.png?raw=true"},
+        {"name":"4kfans_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/4kfans_s.png?raw=true"},
         {"name":"JH_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/JH_r.png?raw=true"},
         {"name":"JH_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/JH_s.png?raw=true"},
       {"name":"Charon_rr","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/Charon_rr.png?raw=true"},
