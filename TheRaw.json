@@ -1,7 +1,10 @@
 {"name":"Emby Icons", 
 "description":"By ysvlove", 
 "icons":[
-
+        {"name":"tank_rr","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/tank_rr.jpg?raw=true"},
+        {"name":"tank_ss","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/tank_ss.jpg?raw=true"},
+      {"name":"tank_rrr","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/tank_rrr.jpg?raw=true"},
+      {"name":"tank_sss","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/tank_sss.jpg?raw=true"},
         {"name":"JH_r","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/JH_r.png?raw=true"},
         {"name":"JH_s","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/JH_s.png?raw=true"},
       {"name":"Charon_rr","url":"https://github.com/ysvlove/ysvlove-emby-icons/blob/main/Icons5/Charon_rr.png?raw=true"},
